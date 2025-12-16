@@ -7,7 +7,6 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.lab_week_11_a.datastore.SettingsApplication
 import com.example.lab_week_11_a.datastore.SettingsViewModel
 
 class MainActivity : AppCompatActivity() {
